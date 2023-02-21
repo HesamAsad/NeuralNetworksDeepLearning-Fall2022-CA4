@@ -1,2 +1,6 @@
-# NeuralNetworksDeepLearning-Fall2022-CA4
-Computer Assignment #4 [RNN, CNN-LSTM] - Neural Networks &amp; Deep Learning Course - University of Tehran - Dr. Kalhor
+# Neural Networks & Deep Learning - Computer Assignment #4 - Fall 2022
+## University of Tehran
+### RNNs, LSTMs, GRUs, CNN-LSTM
+
+* Q1: Air‑pollution prediction in smart city, deep learning approach
+* Q2: Fake news detection: A hybrid CNN-RNN based deep learning approach
